@@ -1,5 +1,5 @@
 import React from "react"
-import { Router as ReactRouter, Route , Switch } from "react-router-dom"
+import { BrowserRouter as ReactRouter, Route , Switch } from "react-router-dom"
 import { Provider } from "react-redux"
 import Store from "./redux/store"
 import { createBrowserHistory } from "history"
@@ -16,7 +16,7 @@ const history = createBrowserHistory()
 const App = () => {
     return(
     <Provider store={Store}>
-        <ReactRouter history={history}>
+        <ReactRouter history={history} basename={window.location.pathname || ''}>
             <Switch>
                 <Route path={routePath.signIn} exact component={SignIn} />
                 <Route path={routePath.signUp} exact component={SignUp} />
