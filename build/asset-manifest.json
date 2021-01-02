@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursova_front/static/css/main.bea557e7.chunk.css",
+    "main.js": "/cursova_front/static/js/main.d0946621.chunk.js",
+    "main.js.map": "/cursova_front/static/js/main.d0946621.chunk.js.map",
+    "runtime-main.js": "/cursova_front/static/js/runtime-main.54fe816e.js",
+    "runtime-main.js.map": "/cursova_front/static/js/runtime-main.54fe816e.js.map",
+    "static/js/2.2c45a884.chunk.js": "/cursova_front/static/js/2.2c45a884.chunk.js",
+    "static/js/2.2c45a884.chunk.js.map": "/cursova_front/static/js/2.2c45a884.chunk.js.map",
+    "index.html": "/cursova_front/index.html",
+    "precache-manifest.634051fbddda8aaef1a25a81155a9a95.js": "/cursova_front/precache-manifest.634051fbddda8aaef1a25a81155a9a95.js",
+    "service-worker.js": "/cursova_front/service-worker.js",
+    "static/css/main.bea557e7.chunk.css.map": "/cursova_front/static/css/main.bea557e7.chunk.css.map",
+    "static/js/2.2c45a884.chunk.js.LICENSE.txt": "/cursova_front/static/js/2.2c45a884.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54fe816e.js",
+    "static/js/2.2c45a884.chunk.js",
+    "static/css/main.bea557e7.chunk.css",
+    "static/js/main.d0946621.chunk.js"
+  ]
+}
