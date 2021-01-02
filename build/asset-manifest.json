@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cursova/static/css/main.bea557e7.chunk.css",
-    "main.js": "/cursova/static/js/main.d0946621.chunk.js",
-    "main.js.map": "/cursova/static/js/main.d0946621.chunk.js.map",
+    "main.js": "/cursova/static/js/main.7b8fc0ad.chunk.js",
+    "main.js.map": "/cursova/static/js/main.7b8fc0ad.chunk.js.map",
     "runtime-main.js": "/cursova/static/js/runtime-main.a33d4da2.js",
     "runtime-main.js.map": "/cursova/static/js/runtime-main.a33d4da2.js.map",
-    "static/js/2.a2d3dcbe.chunk.js": "/cursova/static/js/2.a2d3dcbe.chunk.js",
-    "static/js/2.a2d3dcbe.chunk.js.map": "/cursova/static/js/2.a2d3dcbe.chunk.js.map",
+    "static/js/2.d1e26281.chunk.js": "/cursova/static/js/2.d1e26281.chunk.js",
+    "static/js/2.d1e26281.chunk.js.map": "/cursova/static/js/2.d1e26281.chunk.js.map",
     "index.html": "/cursova/index.html",
-    "precache-manifest.9fea4382bb28dc1e12daafc33e3267b5.js": "/cursova/precache-manifest.9fea4382bb28dc1e12daafc33e3267b5.js",
+    "precache-manifest.8cc881af2a473bcb7c740dfbafb85c1f.js": "/cursova/precache-manifest.8cc881af2a473bcb7c740dfbafb85c1f.js",
     "service-worker.js": "/cursova/service-worker.js",
     "static/css/main.bea557e7.chunk.css.map": "/cursova/static/css/main.bea557e7.chunk.css.map",
-    "static/js/2.a2d3dcbe.chunk.js.LICENSE.txt": "/cursova/static/js/2.a2d3dcbe.chunk.js.LICENSE.txt"
+    "static/js/2.d1e26281.chunk.js.LICENSE.txt": "/cursova/static/js/2.d1e26281.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a33d4da2.js",
-    "static/js/2.a2d3dcbe.chunk.js",
+    "static/js/2.d1e26281.chunk.js",
     "static/css/main.bea557e7.chunk.css",
-    "static/js/main.d0946621.chunk.js"
+    "static/js/main.7b8fc0ad.chunk.js"
   ]
 }
