@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursova/static/css/main.bea557e7.chunk.css",
-    "main.js": "/cursova/static/js/main.7b8fc0ad.chunk.js",
-    "main.js.map": "/cursova/static/js/main.7b8fc0ad.chunk.js.map",
+    "main.js": "/cursova/static/js/main.aa8d64c4.chunk.js",
+    "main.js.map": "/cursova/static/js/main.aa8d64c4.chunk.js.map",
     "runtime-main.js": "/cursova/static/js/runtime-main.a33d4da2.js",
     "runtime-main.js.map": "/cursova/static/js/runtime-main.a33d4da2.js.map",
     "static/js/2.d1e26281.chunk.js": "/cursova/static/js/2.d1e26281.chunk.js",
     "static/js/2.d1e26281.chunk.js.map": "/cursova/static/js/2.d1e26281.chunk.js.map",
     "index.html": "/cursova/index.html",
-    "precache-manifest.8cc881af2a473bcb7c740dfbafb85c1f.js": "/cursova/precache-manifest.8cc881af2a473bcb7c740dfbafb85c1f.js",
+    "precache-manifest.18edb38bcc661c8bff4cb9afc1313616.js": "/cursova/precache-manifest.18edb38bcc661c8bff4cb9afc1313616.js",
     "service-worker.js": "/cursova/service-worker.js",
     "static/css/main.bea557e7.chunk.css.map": "/cursova/static/css/main.bea557e7.chunk.css.map",
     "static/js/2.d1e26281.chunk.js.LICENSE.txt": "/cursova/static/js/2.d1e26281.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a33d4da2.js",
     "static/js/2.d1e26281.chunk.js",
     "static/css/main.bea557e7.chunk.css",
-    "static/js/main.7b8fc0ad.chunk.js"
+    "static/js/main.aa8d64c4.chunk.js"
   ]
 }

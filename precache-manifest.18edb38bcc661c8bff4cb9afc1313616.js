@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e4ca094d2a0eb5647d458c84cfde18e",
+    "revision": "1989e102bec1f3348ab739a249ea3eae",
     "url": "/cursova/index.html"
   },
   {
-    "revision": "80f444bf2512a67da131",
+    "revision": "f447a9df6bf67071bb66",
     "url": "/cursova/static/css/main.bea557e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cursova/static/js/2.d1e26281.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80f444bf2512a67da131",
-    "url": "/cursova/static/js/main.7b8fc0ad.chunk.js"
+    "revision": "f447a9df6bf67071bb66",
+    "url": "/cursova/static/js/main.aa8d64c4.chunk.js"
   },
   {
     "revision": "6c7362bb175e3126dc59",
